@@ -15,4 +15,4 @@ House design: Modern
 ## Object 2
 Storey: Bungalow
 House design: Farmhouse
-![house2](https://www.thehousedesigners.com/plan/one-story-ranch-2188-square-feet-3-bed-outdoor-living-6484/?srsltid=AfmBOoplT7MXv7uU9IH9ZTEuJFwe9pgG6xXJHmjEqy3vqKAiDv3reDJT)
+![house2](https://i.pinimg.com/736x/f4/61/ed/f461ed67f3e7c63068049fb3bfe3c921.jpg)
