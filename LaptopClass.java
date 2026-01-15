@@ -1,4 +1,4 @@
-public class main {
+public class LaptopClass {
     public static void main(String[] args) {
         Laptop jadeLaptop = new Laptop();
         jadeLaptop.brand = "Dell";
